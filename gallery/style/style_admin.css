@@ -1,0 +1,15 @@
+
+
+section div{
+width: 80%;
+display: grid;
+grid-template-columns: repeat(5,25%);
+justify-content: ;
+margin: 25px auto 0 auto; 
+}
+
+
+.imoge{
+width: 100%;
+height: 100%;}
+
